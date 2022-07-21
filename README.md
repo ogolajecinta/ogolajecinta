@@ -17,6 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Oracle Trainee Program: My experience so far..](https://dev.to/ogolajecinta/oracle-trainee-program-my-experience-so-far-49np)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
